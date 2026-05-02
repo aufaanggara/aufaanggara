@@ -81,13 +81,54 @@ class Aufa:
 
 ## 🧰 Tech Stack
 
+**🔐 Security Tools**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B388?style=flat&logo=tenable&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat&logo=owasp&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-181717?style=flat&logo=github&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=flat&logo=github&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat&logo=github&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-4B0082?style=flat&logo=github&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-2C2C2C?style=flat&logo=github&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF4500?style=flat&logo=github&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-CC0000?style=flat&logo=github&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-003366?style=flat&logo=github&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-005F73?style=flat&logo=github&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-6A0DAD?style=flat&logo=python&logoColor=white)
+![FoxyProxy](https://img.shields.io/badge/FoxyProxy-FF6600?style=flat&logo=firefox&logoColor=white)
+
+**🌐 Networking**
+
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**🗄️ Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**💻 Development**
+
+[![Dev Stack](https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,php,react,nextjs,cpp,python&theme=dark&perline=14)](https://skillicons.dev)
+
+<!-- ## 🧰 Tech Stack
+
 **Security Tools**
 
 [![Security Tools](https://skillicons.dev/icons?i=kali,linux,bash,&theme=dark)](https://skillicons.dev)
 
 **Development**
 
-[![Dev Stack](https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,php,react,nextjs,postgresql,dart,flutter,cpp,python&theme=dark&perline=)](https://skillicons.dev)
+[![Dev Stack](https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,php,react,nextjs,postgresql,dart,flutter,cpp,python&theme=dark&perline=)](https://skillicons.dev) -->
 
 ---
 
@@ -105,7 +146,7 @@ class Aufa:
 
 ## 🕹️ Contribution Graph
 
-<img src="https://raw.githubusercontent.com/aufafaf/aufafaf/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aufaanggara/aufaanggara/output/snake.svg" alt="Snake animation" />
 
 ---
 
