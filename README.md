@@ -24,15 +24,15 @@
 
 📍 Sleman, Yogyakarta &nbsp;|&nbsp; 🎓 Universitas Gadjah Mada &nbsp;|&nbsp; 🔐 Offensive Security Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Falah%20Aufa%20Anggara-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Muhammad-Falah-Aufa-Anggara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Falah%20Aufa%20Anggara-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadfalahaufaanggara)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-aufafaf-181717?style=flat&logo=github&logoColor=white)](https://github.com/aufafaf)
+[![GitHub](https://img.shields.io/badge/GitHub-aufaanggara-181717?style=flat&logo=github&logoColor=white)](https://github.com/aufafaf)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@au.fann-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/au.fann)
+[![Instagram](https://img.shields.io/badge/Instagram-@aufanggaraa-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aufanggara)
 &nbsp;
 [![Website](https://img.shields.io/badge/Website-aufan.vercel.app-0f172a?style=flat&logo=google-chrome&logoColor=white)](https://aufan.vercel.app)
 &nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-aufaanggara-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/aufaanggara)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-aufaanggara-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/muhammadfalahaufaanggara)
 
 </div>
 
@@ -81,7 +81,7 @@ class Aufa:
 
 ## 🧰 Tech Stack
 
-**🔐 Security Tools**
+**Security Tools**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
@@ -102,21 +102,21 @@ class Aufa:
 ![Impacket](https://img.shields.io/badge/Impacket-6A0DAD?style=flat&logo=python&logoColor=white)
 ![FoxyProxy](https://img.shields.io/badge/FoxyProxy-FF6600?style=flat&logo=firefox&logoColor=white)
 
-**🌐 Networking**
+**Networking**
 
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-**🗄️ Database**
+**Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-**💻 Development**
+**Development**
 
 [![Dev Stack](https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,php,react,nextjs,cpp,python&theme=dark&perline=14)](https://skillicons.dev)
 
@@ -146,7 +146,13 @@ class Aufa:
 
 ## 🕹️ Contribution Graph
 
-<img src="https://raw.githubusercontent.com/aufaanggara/aufaanggara/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aufaanggara/aufaanggara/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aufaanggara/aufaanggara/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aufaanggara/aufaanggara/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ---
 
