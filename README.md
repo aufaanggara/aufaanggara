@@ -26,11 +26,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Falah%20Aufa%20Anggara-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadfalahaufaanggara)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-aufaanggara-181717?style=flat&logo=github&logoColor=white)](https://github.com/aufafaf)
+[![GitHub](https://img.shields.io/badge/GitHub-aufaanggara-181717?style=flat&logo=github&logoColor=white)](https://github.com/aufaanggara)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@aufanggaraa-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aufanggara)
+[![Instagram](https://img.shields.io/badge/Instagram-@aufanggaraa-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aufanggaraa)
 &nbsp;
-[![Website](https://img.shields.io/badge/Website-aufan.vercel.app-0f172a?style=flat&logo=google-chrome&logoColor=white)](https://aufan.vercel.app)
+[![Website](https://img.shields.io/badge/Website-aufan.vercel.app-0f172a?style=flat&logo=google-chrome&logoColor=white)](https://aufaanggara.vercel.app)
 &nbsp;
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-aufaanggara-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/muhammadfalahaufaanggara)
 
