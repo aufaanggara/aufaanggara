@@ -30,7 +30,7 @@
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-@aufanggaraa-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aufanggaraa)
 &nbsp;
-[![Website](https://img.shields.io/badge/Website-aufan.vercel.app-0f172a?style=flat&logo=google-chrome&logoColor=white)](https://aufaanggara.vercel.app)
+[![Website](https://img.shields.io/badge/Website-aufaanggara.vercel.app-0f172a?style=flat&logo=google-chrome&logoColor=white)](https://aufaanggara.vercel.app)
 &nbsp;
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-aufaanggara-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/muhammadfalahaufaanggara)
 
