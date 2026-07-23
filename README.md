@@ -85,13 +85,17 @@ Currently deepening knowledge in log analysis, threat detection, and SIEM — wi
 
 ## Projects & Writeups
 
-All exploitation writeups, home lab projects, and security tools I've built are documented here:
-
-[![cybersec-portfolio](https://img.shields.io/badge/Repo-cybersec--portfolio-181717?style=flat&logo=github&logoColor=white)](https://github.com/aufaanggara/cybersec-portfolio)
-&nbsp;
-[![security-tools](https://img.shields.io/badge/Repo-security--tools-181717?style=flat&logo=github&logoColor=white)](https://github.com/aufaanggara/security-tools)
-&nbsp;
-[![learning-notes](https://img.shields.io/badge/Repo-learning--notes-181717?style=flat&logo=github&logoColor=white)](https://github.com/aufaanggara/learning-notes)
+| Repo | Description |
+|------|-------------|
+| [cybersec-portfolio](https://github.com/aufaanggara/cybersec-portfolio) | Exploitation writeups and home lab project documentation |
+| [security-tools](https://github.com/aufaanggara/security-tools) | Custom security tools built from scratch (port scanner, network sniffer, etc.) |
+| [wazuh-siem-lab](https://github.com/aufaanggara/wazuh-siem-lab) | Home lab SIEM setup using Wazuh — log ingestion, alert rules, and monitoring |
+| [vuln-management-dashboard](https://github.com/aufaanggara/vuln-management-dashboard) | Web dashboard for vulnerability tracking and management |
+| [Automated-Recon-Tool](https://github.com/aufaanggara/Automated-Recon-Tool) | Python-based automated reconnaissance tool |
+| [osint-geolocation](https://github.com/aufaanggara/osint-geolocation) | OSINT technique to pinpoint exact coordinates from a single image |
+| [packet-tracer](https://github.com/aufaanggara/packet-tracer) | Cisco Packet Tracer network simulation projects |
+| [server](https://github.com/aufaanggara/server) | Linux server setup, configuration, and maintenance documentation |
+| [learning-notes](https://github.com/aufaanggara/learning-notes) | Personal study notes from TryHackMe and HackTheBox |
 
 ---
 
