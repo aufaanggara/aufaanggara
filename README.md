@@ -8,6 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Falah%20Aufa%20Anggara-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Muhammad-Falah-Aufa-Anggara)
 &nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@aufanggaraa-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aufanggaraa)
+&nbsp;
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-aufaanggara-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/aufaanggara)
 &nbsp;
 [![Website](https://img.shields.io/badge/Portfolio-aufan.vercel.app-0f172a?style=flat&logo=google-chrome&logoColor=white)](https://aufan.vercel.app)
@@ -18,9 +20,9 @@
 
 ## About
 
-Mahasiswa Teknologi Informasi Universitas Gadjah Mada dengan fokus di bidang **defensive security dan SOC operations**. Aktif membangun skill melalui home lab, platform CTF, dan sertifikasi.
+Information Technology student at Universitas Gadjah Mada with a focus on **defensive security and SOC operations**. Actively building skills through home lab practice, CTF platforms, and certifications.
 
-Saat ini mendalami log analysis, threat detection, dan SIEM — dengan latar belakang offensive security yang membantu memahami perspektif attacker.
+Currently deepening knowledge in log analysis, threat detection, and SIEM — with an offensive security background that helps understand the attacker's perspective.
 
 ---
 
@@ -28,41 +30,54 @@ Saat ini mendalami log analysis, threat detection, dan SIEM — dengan latar bel
 
 | Domain | Detail |
 |--------|--------|
-| **SOC Operations** | Log analysis, alert triage, threat detection |
-| **SIEM** | Rule creation, dashboard monitoring |
-| **Network Security** | Traffic analysis, packet inspection, Wireshark |
+| **SOC Operations** | Log analysis, alert triage, threat detection, incident handling |
+| **SIEM** | Rule creation, dashboard monitoring, log correlation |
+| **Network Security** | Traffic analysis, packet inspection, intrusion detection |
+| **Digital Forensics** | Memory analysis, disk forensics, artifact examination |
 | **Offensive Security** | Web pentesting, network exploitation, CTF |
 
 ---
 
 ## Tools & Technologies
 
-**Blue Team**
+**🔵 Blue Team**
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat&logo=elastic&logoColor=white)
+![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat&logo=elastic&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-CC0000?style=flat&logo=snort&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF7822?style=flat&logo=suricata&logoColor=white)
+![REMnux](https://img.shields.io/badge/REMnux-2E9E4F?style=flat&logo=linux&logoColor=white)
+![CAPE](https://img.shields.io/badge/CAPE_Sandbox-4B0082?style=flat&logo=github&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-2C2C2C?style=flat&logo=github&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-8B0000?style=flat&logo=github&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-FFA500?style=flat&logo=github&logoColor=white)
+![MISP](https://img.shields.io/badge/MISP-003366?style=flat&logo=github&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-006699?style=flat&logo=github&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat&logo=github&logoColor=white)
 
-**Red Team / Pentesting**
+**🔴 Red Team / Pentesting**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=flat&logo=github&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=flat&logo=github&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-181717?style=flat&logo=github&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-003366?style=flat&logo=github&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-4B0082?style=flat&logo=github&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-2C2C2C?style=flat&logo=github&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF4500?style=flat&logo=github&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-6A0DAD?style=flat&logo=python&logoColor=white)
 
-**Networking**
+**🌐 Networking**
 
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-**Development**
+**💻 Development**
 
 [![Dev Stack](https://skillicons.dev/icons?i=html,css,js,nodejs,typescript,php,react,nextjs,postgresql,mysql,mongodb,python&theme=dark&perline=12)](https://skillicons.dev)
 
@@ -70,9 +85,13 @@ Saat ini mendalami log analysis, threat detection, dan SIEM — dengan latar bel
 
 ## Projects & Writeups
 
+All exploitation writeups, home lab projects, and security tools I've built are documented here:
+
 [![cybersec-portfolio](https://img.shields.io/badge/Repo-cybersec--portfolio-181717?style=flat&logo=github&logoColor=white)](https://github.com/aufaanggara/cybersec-portfolio)
 &nbsp;
 [![security-tools](https://img.shields.io/badge/Repo-security--tools-181717?style=flat&logo=github&logoColor=white)](https://github.com/aufaanggara/security-tools)
+&nbsp;
+[![learning-notes](https://img.shields.io/badge/Repo-learning--notes-181717?style=flat&logo=github&logoColor=white)](https://github.com/aufaanggara/learning-notes)
 
 ---
 
