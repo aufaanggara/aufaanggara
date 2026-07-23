@@ -22,7 +22,7 @@
 
 Information Technology student at Universitas Gadjah Mada with a focus on **defensive security and SOC operations**. Actively building skills through home lab practice, CTF platforms, and certifications.
 
-Currently deepening knowledge in log analysis, threat detection, and SIEM — with an offensive security background that helps understand the attacker's perspective.
+Currently deepening knowledge in log analysis, threat detection, and SIEM with an offensive security background that helps understand the attacker's perspective.
 
 ---
 
