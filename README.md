@@ -106,5 +106,5 @@ Currently deepening knowledge in log analysis, threat detection, and SIEM — wi
 ---
 
 <div align="center">
-<sub>Universitas Gadjah Mada · Information Technology · 2022</sub>
+<sub>Universitas Gadjah Mada · Information Technology · 2024</sub>
 </div>
