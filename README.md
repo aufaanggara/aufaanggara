@@ -12,7 +12,7 @@
 &nbsp;
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-aufaanggara-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/aufaanggara)
 &nbsp;
-<!-- [![Website](https://img.shields.io/badge/Portfolio-aufaanggara.vercel.app-0f172a?style=flat&logo=google-chrome&logoColor=white)](https://aufaanggara.vercel.app) -->
+[![Website](https://img.shields.io/badge/Portfolio-aufa.vercel.app-0f172a?style=flat&logo=google-chrome&logoColor=white)](https://aufa.vercel.app)
 
 </div>
 
