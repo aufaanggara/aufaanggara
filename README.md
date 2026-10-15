@@ -102,9 +102,9 @@ Currently deepening knowledge in log analysis, threat detection, and SIEM with a
 ## Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aufaanggara/aufaanggara/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aufaanggara/aufaanggara/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/aufaanggara/aufaanggara/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aufaanggara/aufaanggara/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aufaanggara/aufaanggara/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/aufaanggara/aufaanggara/output/github-snake.svg">
 </picture>
 
 ---
