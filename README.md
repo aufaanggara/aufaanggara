@@ -12,7 +12,7 @@
 &nbsp;
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-aufaanggara-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/aufaanggara)
 &nbsp;
-[![Website](https://img.shields.io/badge/Portfolio-aufa.vercel.app-0f172a?style=flat&logo=google-chrome&logoColor=white)](https://aufa.vercel.app)
+[![Website](https://img.shields.io/badge/Portfolio-aufa.me-0f172a?style=flat&logo=google-chrome&logoColor=white)](https://aufa.me)
 
 </div>
 
@@ -101,7 +101,7 @@ Currently deepening knowledge in log analysis, threat detection, and SIEM with a
 
 ## Contribution Graph
 
-<img src="https://raw.githubusercontent.com/aufafaf/aufafaf/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aufaanggara/aufaanggara/pacman-output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
 
 ---
 
