@@ -31,7 +31,7 @@ Currently deepening knowledge in log analysis, threat detection, and SIEM with a
 | Domain | Detail |
 |--------|--------|
 | **SOC Operations** | Log analysis, alert triage, threat detection, incident handling |
-| **SIEM** | Wazuh, Splunk, Elastic — rule creation, dashboard monitoring, log correlation |
+| **SIEM** | Wazuh, Splunk, Elastic, rule creation, dashboard monitoring, log correlation |
 | **Network Security** | Traffic analysis, packet inspection, intrusion detection |
 | **Digital Forensics** | Memory analysis, disk forensics, artifact examination |
 | **Threat Intelligence** | IOC analysis, threat hunting, MITRE ATT&CK mapping |
@@ -87,9 +87,9 @@ Currently deepening knowledge in log analysis, threat detection, and SIEM with a
 | Repo | Description |
 |------|-------------|
 | [cybersec-portfolio](https://github.com/aufaanggara/cybersec-portfolio) | Exploitation writeups and home lab project documentation |
-| [wazuh-homelab](https://github.com/aufaanggara/wazuh-homelab) | Home lab SIEM setup using Wazuh — log ingestion, alert rules, and monitoring |
-| [elastic-homelab](https://github.com/aufaanggara/elastic-homelab) | Home lab SIEM setup using Elastic — log ingestion and threat detection |
-| [splunk-homelab](https://github.com/aufaanggara/splunk-homelab) | Home lab SIEM setup using Splunk — search, dashboards, and alerting |
+| [wazuh-homelab](https://github.com/aufaanggara/wazuh-homelab) | Home lab SIEM using Wazuh: log ingestion, alert rules, and monitoring |
+| [elastic-homelab](https://github.com/aufaanggara/elastic-homelab) | Home lab SIEM using Elastic: log ingestion and threat detection |
+| [splunk-homelab](https://github.com/aufaanggara/splunk-homelab) | Home lab SIEM using Splunk: search, dashboards, and alerting |
 | [incident-response-playbook](https://github.com/aufaanggara/incident-response-playbook) | Incident response playbook and documentation |
 | [linux-hardening-audit](https://github.com/aufaanggara/linux-hardening-audit) | Linux server hardening and security audit |
 | [vuln-management-dashboard](https://github.com/aufaanggara/vuln-management-dashboard) | Web dashboard for vulnerability tracking and management |
