@@ -31,10 +31,10 @@ Currently deepening knowledge in log analysis, threat detection, and SIEM with a
 | Domain | Detail |
 |--------|--------|
 | **SOC Operations** | Log analysis, alert triage, threat detection, incident handling |
-| **SIEM** | Rule creation, dashboard monitoring, log correlation |
+| **SIEM** | Wazuh, Splunk, Elastic — rule creation, dashboard monitoring, log correlation |
 | **Network Security** | Traffic analysis, packet inspection, intrusion detection |
 | **Digital Forensics** | Memory analysis, disk forensics, artifact examination |
-| **Offensive Security** | Web pentesting, network exploitation, CTF |
+| **Threat Intelligence** | IOC analysis, threat hunting, MITRE ATT&CK mapping |
 
 ---
 
@@ -44,17 +44,16 @@ Currently deepening knowledge in log analysis, threat detection, and SIEM with a
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Elastic SIEM](https://img.shields.io/badge/Elastic_SIEM-005571?style=flat&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat&logo=github&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-CC0000?style=flat&logo=snort&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF7822?style=flat&logo=suricata&logoColor=white)
 ![REMnux](https://img.shields.io/badge/REMnux-2E9E4F?style=flat&logo=linux&logoColor=white)
-![CAPE](https://img.shields.io/badge/CAPE_Sandbox-4B0082?style=flat&logo=github&logoColor=white)
 ![Autopsy](https://img.shields.io/badge/Autopsy-2C2C2C?style=flat&logo=github&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-8B0000?style=flat&logo=github&logoColor=white)
 ![TheHive](https://img.shields.io/badge/TheHive-FFA500?style=flat&logo=github&logoColor=white)
 ![MISP](https://img.shields.io/badge/MISP-003366?style=flat&logo=github&logoColor=white)
 ![Zeek](https://img.shields.io/badge/Zeek-006699?style=flat&logo=github&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat&logo=github&logoColor=white)
 
 **🔴 Red Team / Pentesting**
 
@@ -88,14 +87,15 @@ Currently deepening knowledge in log analysis, threat detection, and SIEM with a
 | Repo | Description |
 |------|-------------|
 | [cybersec-portfolio](https://github.com/aufaanggara/cybersec-portfolio) | Exploitation writeups and home lab project documentation |
-| [security-tools](https://github.com/aufaanggara/security-tools) | Custom security tools built from scratch (port scanner, network sniffer, etc.) |
-| [wazuh-siem-lab](https://github.com/aufaanggara/wazuh-siem-lab) | Home lab SIEM setup using Wazuh — log ingestion, alert rules, and monitoring |
+| [wazuh-homelab](https://github.com/aufaanggara/wazuh-homelab) | Home lab SIEM setup using Wazuh — log ingestion, alert rules, and monitoring |
+| [elastic-homelab](https://github.com/aufaanggara/elastic-homelab) | Home lab SIEM setup using Elastic — log ingestion and threat detection |
+| [splunk-homelab](https://github.com/aufaanggara/splunk-homelab) | Home lab SIEM setup using Splunk — search, dashboards, and alerting |
+| [incident-response-playbook](https://github.com/aufaanggara/incident-response-playbook) | Incident response playbook and documentation |
+| [linux-hardening-audit](https://github.com/aufaanggara/linux-hardening-audit) | Linux server hardening and security audit |
 | [vuln-management-dashboard](https://github.com/aufaanggara/vuln-management-dashboard) | Web dashboard for vulnerability tracking and management |
-| [Automated-Recon-Tool](https://github.com/aufaanggara/Automated-Recon-Tool) | Python-based automated reconnaissance tool |
-| [osint-geolocation](https://github.com/aufaanggara/osint-geolocation) | OSINT technique to pinpoint exact coordinates from a single image |
+| [automated-recon-tool](https://github.com/aufaanggara/automated-recon-tool) | Python-based automated reconnaissance tool |
 | [packet-tracer](https://github.com/aufaanggara/packet-tracer) | Cisco Packet Tracer network simulation projects |
-| [server](https://github.com/aufaanggara/server) | Linux server setup, configuration, and maintenance documentation |
-| [learning-notes](https://github.com/aufaanggara/learning-notes) | Personal study notes from TryHackMe and HackTheBox |
+| [learning-notes](https://github.com/aufaanggara/learning-notes) | Personal study notes from TryHackMe, HackTheBox, and courses |
 
 ---
 
