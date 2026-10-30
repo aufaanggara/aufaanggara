@@ -75,6 +75,8 @@ Currently deepening knowledge in log analysis, threat detection, and SIEM with a
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-6A0DAD?style=flat&logo=github&logoColor=white)
 
 **💻 Development**
 
@@ -95,6 +97,8 @@ Currently deepening knowledge in log analysis, threat detection, and SIEM with a
 | [vuln-management-dashboard](https://github.com/aufaanggara/vuln-management-dashboard) | Web dashboard for vulnerability tracking and management |
 | [automated-recon-tool](https://github.com/aufaanggara/automated-recon-tool) | Python-based automated reconnaissance tool |
 | [packet-tracer](https://github.com/aufaanggara/packet-tracer) | Cisco Packet Tracer network simulation projects |
+| [docker-lab](https://github.com/aufaanggara/docker-lab) | Docker lab for building and running containerized security environments |
+| [hermes-lab](https://github.com/aufaanggara/hermes-lab) | Hermes lab setup and documentation |
 | [learning-notes](https://github.com/aufaanggara/learning-notes) | Personal study notes from TryHackMe, HackTheBox, and courses |
 
 ---
